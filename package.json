@@ -1,0 +1,19 @@
+{
+  "name": "smoviedb",
+  "version": "1.0.0",
+  "description": "This is a cool page using the API from TMDB",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HanielOntiveros/sMovieDB.git"
+  },
+  "author": "@HanielOntivero <haniel97@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HanielOntiveros/sMovieDB/issues"
+  },
+  "homepage": "https://github.com/HanielOntiveros/sMovieDB#readme"
+}
